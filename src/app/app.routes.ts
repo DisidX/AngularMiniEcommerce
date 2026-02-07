@@ -14,4 +14,4 @@ export const routes: Routes = [
     {path:'servicios',component:Servicios},
     {path: '**', redirectTo: 'inicio', pathMatch: 'full' }
     // {path: '**', redirectTo: '', pathMatch: 'full' }
-];gti           
+];
